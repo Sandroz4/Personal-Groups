@@ -76,3 +76,36 @@
 # age = int(input()) # 16
 
 # print(age + 4) # 20
+
+
+# print(5 > 2)
+# print(4 < 3)
+# print(10 < 10)
+# print(4 > 1)
+
+# print(10 <= 10)
+# print(4 <= 9)
+
+# print(10 >= 10)
+# print(12 >= 2)
+
+# print(10 == 9)
+# print(8 == 8)
+# print(3 == 9)
+
+# print(3 != 4)
+# print(4 != 4)
+# print(6 != 3)
+# name = 'sandro' #string
+# adult = True #boolean
+# baby = False #boolean
+
+# 5 < 3
+
+# # < - ნაკლებობა
+# # > - მეტობა
+
+# print(int(True))
+# print(int(False))
+
+# print(type(True))
