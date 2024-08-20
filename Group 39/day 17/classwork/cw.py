@@ -55,10 +55,12 @@
 
 # print('Password set!')
 
-secret = 'goa'
-user_guess = input('enter secret word: ')
+# secret = 'goa'
+# user_guess = input('enter secret word: ')
 
-while user_guess != secret:
-    user_guess = input('enter secret word: ')
+# while user_guess != secret:
+#     user_guess = input('enter secret word: ')
 
-print('match!')
+# print('match!')
+
+
