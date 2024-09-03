@@ -52,7 +52,22 @@
 #     print('minor')
 #     age = age + 2
 
-num = 13
+# num = 11
 
-while num > 5:
-    print('old')
+# #    11, 8
+# while num > 5:
+#     print('old')
+#     num = num - 3
+
+
+
+# age = int(input('enter your age: '))
+
+# while age < 18:
+#     print('you are underage!')
+#     age = int(input('enter your age: '))
+#     print(' ')
+
+# print('you are adult!')
+
+
