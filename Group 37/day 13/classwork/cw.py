@@ -71,3 +71,14 @@
 # print('you are adult!')
 
 
+# age = 2
+
+# #სანამ 2 > 0
+# while age > 0:
+#     print('hello')
+
+# counter = 0
+# while counter < 4:
+#     print(counter)
+#     counter = counter + 1
+
