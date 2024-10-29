@@ -1,0 +1,23 @@
+#medals{
+    border: solid;
+    border-collapse: collapse;
+}
+
+td{
+    border: solid;
+}
+
+th{
+    border: solid;
+}
+
+tr:nth-child(odd){
+    color: blueviolet;
+}
+
+
+tr:nth-child(even){
+    color: aqua;
+}
+
+
