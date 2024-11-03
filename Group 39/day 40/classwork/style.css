@@ -1,0 +1,15 @@
+/* ul{
+    list-style: square none inside;
+    list-style-type: none;
+} */
+
+/* 
+h1{
+    border: 7px red solid;
+    background-color: crimson;
+    color: white;
+} */
+
+ol{
+    list-style-image: url('verified.png');
+}

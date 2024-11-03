@@ -41,3 +41,4 @@ shopping_cart = ['bread', 'milk', 'potatoe', 'water', 'juice', 'sausage', 'lemon
 
 # max, min, len,
 # for loop-ით სიის გადავლა.
+
