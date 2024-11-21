@@ -100,3 +100,7 @@
 # print(f'{name} is a student, he is {age} years old')
 
 
+# nums = [1, 'academy', 2.0]
+
+# for i in nums:
+#     print(i)
