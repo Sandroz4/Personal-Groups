@@ -18,3 +18,9 @@ https://www.codewars.com/kata/53ee5429ba190077850011d4
 
 7.
 https://www.codewars.com/kata/55685cd7ad70877c23000102
+
+8. 
+https://www.codewars.com/kata/55ca77fa094a2af31f00002a
+
+9.
+https://www.codewars.com/kata/5715eaedb436cf5606000381
