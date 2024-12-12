@@ -56,17 +56,11 @@
 
 # bmi (body mass index) calculator
 
-# def bmi(height, weight):
-#     result = weight / height**2
-#     return result
+def bmi(height, weight):
+    result = weight / height**2
+    print(result)
 
-# final = bmi(1.80, 68) # = 20.9
-# print(final)
-
-# bmi(1.80, 69)
-
-# final = bmi(1.80, 68) #20.9
-# print(final)
+bmi(1.80, 68)
 
 
 
