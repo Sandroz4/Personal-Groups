@@ -32,10 +32,3 @@ https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/solutions/python
 
 https://www.codewars.com/kata/57e3f79c9cb119374600046b/train/python
 
-1. თუ name არგუმენტი არის ცარიელი,
-ვაბრუნებთ "Hello, World!"
-
-
-
-2. სხვა შემთხვევაში, name-ს ვაქცევთ პირველ დიდ ასოდ
-და ვაბრუნებთ "Hello, {name}"
