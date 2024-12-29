@@ -1,5 +1,5 @@
-Level 59, 4 Jan | Transforms
-Level 60, 9 Jan | Codewars
+Level 59, 4 Jan  | Transforms
+Level 60, 9 Jan  | Codewars
 Level 61, 11 Jan | Transitions
 Level 62, 16 Jan | Keyframes & Animations
 Level 63, 18 Jan | Animation Properties, Module 4 Quiz
@@ -9,9 +9,9 @@ Level 64, 23 Jan | Codewars
 
 Level 65, 25 Jan | Anatomy of CSS, Style Inheritance, Standarts
 Level 66, 30 Jan | The box model, Flexbox Layout, Positioning
-Level 67, 1 Feb | Backgrounds, Transitions & Transforms, Keyframes & Animations
-Level 68, 6 Feb | Codewars
-Level 69, 8 Feb | Website V1
+Level 67, 1 Feb  | Backgrounds, Transitions & Transforms, Keyframes & Animations
+Level 68, 6 Feb  | Codewars
+Level 69, 8 Feb  | Website V1
 Level 70, 13 Feb | Website V2
 
 -> Introduction To Javascript..
