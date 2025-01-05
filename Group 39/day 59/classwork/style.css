@@ -1,0 +1,57 @@
+#green{
+    width: 150px;
+    height: 200px;
+    background: #8db741;
+    border-radius: 10px;
+
+    position: absolute;
+
+    left: 400px;
+    top: 150px;
+
+    transition: 1s;
+}
+
+
+#green:active{
+    transform: translate(100px, -100px);
+}
+
+
+#red{
+    width: 100px;
+    height: 200px;
+    background:red;
+    border-radius: 10px;
+
+    position: absolute;
+
+    left: 400px;
+    top: 600px;
+}
+
+#red:active{
+    transform: scale(150%);
+}
+
+
+
+#purple{
+    width: 100px;
+    height: 200px;
+    background:blueviolet;
+    border-radius: 10px;
+
+    position: absolute;
+
+    left: 700px;
+    top: 400px;
+
+    transition: 1s;
+}
+
+#purple:active{
+    transform: rotate(60deg) scale(1.5) translate(50px);
+
+    /* transform-origin: bottom left; */
+}
