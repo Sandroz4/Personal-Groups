@@ -1,0 +1,44 @@
+h4{
+    text-align: center;
+    position: absolute;
+
+    top: 60px;
+    left: 15px;
+    color: white;
+}
+
+
+
+div{
+    height: 200px;
+    width: 200px;
+    background: blue;
+    position: relative;
+
+    animation-duration: 5s;
+    animation-name: spin;
+    animation-delay: 5s;
+
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+/* div:hover{
+    transform: translate(100px);
+} */
+
+@keyframes spin{
+    0%{
+        scale: 1;
+    }
+    50%{
+        scale: 1.3;
+        transform: rotate(0);
+        border-radius: 0px;
+    }
+    100%{
+        transform: rotate(360deg);
+        border-radius: 15px;
+        /* transform: translate(50px); */
+    }
+}
