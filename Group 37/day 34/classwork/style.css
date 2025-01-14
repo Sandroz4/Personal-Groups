@@ -1,0 +1,66 @@
+/* table{
+    border: 2px black solid;
+}
+
+th{
+    border: 2px black solid;
+}
+
+td{
+    border: 2px black solid;
+} */
+
+table{
+    border: 2px black solid;
+
+    border-collapse: collapse;
+}
+
+
+th, td{
+    border: 2px black solid;
+    text-align: center;
+}
+
+
+
+td:nth-child(2){
+    color: red;
+}
+
+
+
+th:nth-child(odd){
+    color: green;
+}
+
+
+
+
+/* .goa{
+    border: 2px red solid;
+} */
+
+
+/* 1st ver */
+/* div{
+    color: red;
+}
+
+#mic{
+    color: green;
+} */
+
+
+/* 
+#main{
+    color: red;
+}
+
+
+h1:nth-child(2){
+    color: green;
+} */
+
+
+/* 5th-child */
