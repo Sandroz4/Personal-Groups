@@ -1,0 +1,36 @@
+body{
+    background: #0c1426;
+}
+
+#circle{
+    width: 250px;
+    height: 250px;
+    background: #ffa310;
+    border-radius: 100%;
+
+    margin: 250px 0 0 300px;
+
+    /* animation-name: pulse;
+    animation-duration: 1.5s;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
+    animation-delay: 0.5s; */
+
+    animation: pulse 1.5s ease-in 0.5s infinite;
+}
+
+
+@keyframes pulse{
+    0%{
+        transform: scale(1);
+    }
+    50%{
+        transform: scale(1.25);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
+
+
+
