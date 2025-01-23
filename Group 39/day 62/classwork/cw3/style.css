@@ -1,4 +1,4 @@
-/* body{
+body{
     background: #213555;
 }
 
@@ -12,7 +12,7 @@
     animation: loader 2s infinite ease;
 }
 
-
+/* 
 #ball1{ 
     width: 20px;
     height: 20px;
@@ -33,7 +33,7 @@
 
     animation: up1 4s  infinite;
     animation-delay: 0.2s;
-}
+} */
 
 
 
@@ -72,8 +72,8 @@
     100%{
         transform: rotate(360deg);
     }
-} */
-#ball{
+}
+/* #ball{
     height: 50px;
     width: 50px;
     background: orange;
@@ -91,4 +91,4 @@
     100%{
         transform: translate(100px,-100px);
     }
-}
+} */
