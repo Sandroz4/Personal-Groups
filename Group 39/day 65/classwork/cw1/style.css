@@ -1,0 +1,63 @@
+body{
+    background-image: url('images/walpaper.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#icon{
+    width: 100px;
+    position: relative;
+
+    left: 700px;
+}
+
+
+#main-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#steak{
+    width: 500px;
+    transition: 0.2s;
+}
+
+#steak:hover{
+    transform: scale(1.01);
+}
+
+
+
+
+
+h1{
+    /* margin-top: -20px; */
+    font-size: 120px;
+    color: white;
+}
+
+p{
+    margin-top: -70px;
+    color: white;
+    font-size: 25px;
+}
+
+button{
+    background: #241d18;
+    width: 115px;
+    height: 40px;
+    border: none;
+    border-radius: 15px;
+    color: white;
+
+    font-size: larger;
+    transition: 0.5s ;
+}
+
+button:hover{
+    transform: scale(1.02);
+    box-shadow: 1px 1px 20px 1px black;
+}
