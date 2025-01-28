@@ -1,0 +1,12 @@
+#ul1{
+    list-style: inside upper-roman url('fifty.png');
+    text-transform: capitalize;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+#ul2{
+    list-style-type: square;
+    list-style-image: url(fifty.png);
+}
