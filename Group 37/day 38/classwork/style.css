@@ -1,0 +1,51 @@
+/* .container{
+    width: 600px;
+    height: 250px;
+    background: #67c7cd;
+    border: 6px solid #3e9a90;
+    border-radius: 60px 100px 30px 200px;
+
+    margin-left: 100px;
+    margin-top: 200px;
+} */
+
+img{
+    width: 400px;
+    display: block; 
+    margin-bottom: 30px;
+}
+
+.container{
+    border: 2px solid black;
+
+    display: flex;
+    width: 150px;
+}
+
+.cube1{
+    background: blueviolet;
+    margin: 5px;
+    height: 50px;
+    width: 50px;
+    
+    flex-shrink: 5;
+}
+
+.cube2{
+    background: blueviolet;
+    margin: 5px;
+    height: 50px;
+    width: 50px;
+    
+    flex-shrink: 1;
+}
+.cube3{
+    background: blueviolet;
+    margin: 5px;
+    height: 50px;
+    width: 50px;
+    
+    flex-shrink: 1;
+}
+
+/* 5 - 1/5, 1/5, 3/5
