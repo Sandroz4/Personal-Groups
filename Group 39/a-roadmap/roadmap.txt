@@ -1,5 +1,3 @@
-Level 69, 8 Feb  | grid
-Level 70, 13 Feb | navbar
 Level 71, 16 Feb | responsive
 
 
