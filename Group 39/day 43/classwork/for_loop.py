@@ -70,4 +70,5 @@
 # for i in range(2024, user_input, 2):
 #     print(i)
 
-
+name = 'david'
+print(name)
