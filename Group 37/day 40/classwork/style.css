@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    /* margin: 0;
+    padding: 0; */
+
+    font-family: "JetBrains Mono", serif;
+}
+
+body{
+    /* font-family: 'Times New Roman', Times, serif;*/
+
+    /* border: 2px solid ; */
+    /* background: blue; */
+
+    /* overflow: hidden; */
+} 
+
+.container{
+
+    display: flex;
+    flex-direction: row;
+    /* border: 2px black solid; */
+    justify-content: center;
+
+    /* justify-content: space-evenly; */
+}
+
+.text{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    margin: 10px;
+    border-radius: 10px;
+    transition: 0.2s ease-in;
+    /* padding: 10px; */
+}
+
+img:hover{
+    transform: scale(1.01);
+    box-shadow: 2px 2px 50px 5px rgb(206, 206, 206);
+}
+
+/* h1{
+    margin-left: 100px;
+} */
