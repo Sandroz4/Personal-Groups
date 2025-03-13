@@ -1,0 +1,17 @@
+button{
+    /* background: red; */
+    background-color: red;
+    margin-bottom: 20px;
+}
+
+div{
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+    background-image: url(image.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+/* 
+    background-position: 125px 125px;
+    background-size: 20px 120px; */
+}

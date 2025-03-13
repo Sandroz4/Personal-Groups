@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <!-- <button onclick="alert('davit')">Click</button>
+    <br><br>
+    <button onclick="prompt()">Info</button> -->
+    <!-- <form>
+        <label for="demetre">Male</label>
+        <input id="demetre" type="checkbox"><br><br>
+
+        <label for="">Female</label>
+        <input type="checkbox">
+    </form> -->
+    <!-- <form id="myForm">
+        <label for="city">Enter city:</label>
+        <input type="text" id="city"></br></br>
+        <label for="country">Enter country:</label>
+        <input type="text" id="country"></br></br>
+        <input type="submit">
+      </form>
+    
+    <div id="table">
+      <h2>Database Simulation</h2>
+      <table id="dataTable">
+        <tr>
+          <th>city</th>
+          <th>country</th>
+        </tr>
+      </table>
+    </div> -->
+    <!-- <form>
+        <label for="">Name</label>
+        <input id="t1" type="text"><br><br>
+
+        <input type="submit">
+    </form> -->
+
+
+
+    <input type="text" id="myInput" placeholder="enter name">
+    <button onclick="getValue()">Add Name</button><br>
+
+    <h3 id="starting">Mr </h3>
+
+    <script>
+        function getValue(){
+            let inputValue = document.getElementById('myInput').value
+            let startingText = document.getElementById('starting')
+
+            startingText.textContent += inputValue
+
+
+        }
+    </script>
+
+
+
+    <!-- <script src="script.js">
+    </script> -->
+</body> 
+</html>
