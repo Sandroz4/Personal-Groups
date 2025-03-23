@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>youtube</title>
+</head>
+<body>
+    <form>
+        <input id="user1" type="checkbox">
+        <input id="user2" type="checkbox"><br><br>
+
+        <input onclick="checker()" type="button" value="check &&">
+    </form>
+
+    <h1 id="h1">Result: </h1>
+
+    <script>
+        function checker(){
+            let x1 = document.getElementById('user1').checked
+            let x2 = document.getElementById('user2').checked
+            let heading = document.getElementById('h1')
+
+            let result = x1 && x2
+            heading.textContent += result
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        // document.title = 'what'
+        // let x = document.title
+        // console.log(x)
+        // let x = document.title
+        // console.log(x)
+        // let x = document.getElementById('test')
+        // x.textContent += ' work'
+        // document.getElementById('test').textContent = 'work'
+
+        // let x = document.getElementById('test')
+        // x.style.color = 'red'
+        // console.log(x)
+
+        // console.log(true && false)
+        // console.log(false || false)
+    </script>
+</body>
+</html>

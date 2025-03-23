@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>hello</title>
+</head>
+<body>
+    <h1 id="test"></h1>
+
+    <form> 
+        <label for="inp1">Input 1</label>
+        <input type="checkbox" id="inp1"><br><br>
+    
+        <label for="inp2">Input 2</label>
+        <input type="checkbox" id="inp2"><br><br>
+    
+        <input onclick="operation()" type="button" value="Check">
+    </form>
+    
+    <h1 id="result">Result of the && operation is: </h1>
+    
+    <script>
+    function operation() {
+        let input1 = document.getElementById('inp1').checked;
+        let input2 = document.getElementById('inp2').checked;
+        let result = input1 && input2;
+        
+        let text = document.getElementById('result');
+        text.textContent = `Result of the && operation is: ${result}`;
+    }
+
+
+
+
+    </script>
+
+    
+</body>
+</html>
