@@ -1,7 +1,7 @@
 - Level 82: 30 March | Data Types, Module Quiz
 - Level 83: 3 April | Control Flow, Conditional Statements
 
-- Level 84: 6 April | Coders 🟥
+- Level 84: 6 April | Codewars 🟥
 
 - Level 85: 10 April | Advanced Conditions, More on Conditional Statements
 - Level 86: 13 April | While Loops
