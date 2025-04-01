@@ -1,22 +1,21 @@
 From Easiest To hardest:
 
+https://www.codewars.com/kata/523b4ff7adca849afe000035 - Function 1 - hello world
 https://www.codewars.com/kata/50654ddff44f800200000004 - Multiply
+https://www.codewars.com/kata/56200d610758762fb0000002 - Grasshopper - Basic Function Fixer
 https://www.codewars.com/kata/544675c6f971f7399a000e79 - Convert a String to a Number!
 https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7 - MakeUpperCase
 https://www.codewars.com/kata/53ee5429ba190077850011d4 - You Can't Code Under Pressure #1
 https://www.codewars.com/kata/53369039d7ab3ac506000467 - Convert boolean values to strings 'Yes' or 'No'.
 https://www.codewars.com/kata/55685cd7ad70877c23000102 - Return Negative
 https://www.codewars.com/kata/5715eaedb436cf5606000381 - Sum of positive
+https://www.codewars.com/kata/57a2013acf1fa5bfc4000921 - Calculate average
 
 
 
 
 
 4. https://www.codewars.com/kata/55ca77fa094a2af31f00002a
-1. https://www.codewars.com/kata/523b4ff7adca849afe000035
-2. https://www.codewars.com/kata/56200d610758762fb0000002
-3. https://www.codewars.com/kata/55685cd7ad70877c23000102
-4. https://www.codewars.com/kata/57a2013acf1fa5bfc4000921
 5. https://www.codewars.com/kata/57089707fe2d01529f00024a
 6. https://www.codewars.com/kata/57e3f79c9cb119374600046b
 1. https://www.codewars.com/kata/57ab3c09bb994429df000a4a
