@@ -9,6 +9,7 @@ https://www.codewars.com/kata/53ee5429ba190077850011d4 - You Can't Code Under Pr
 https://www.codewars.com/kata/53369039d7ab3ac506000467 - Convert boolean values to strings 'Yes' or 'No'.
 https://www.codewars.com/kata/57089707fe2d01529f00024a - Grasshopper - If/else syntax debug
 https://www.codewars.com/kata/55685cd7ad70877c23000102 - Return Negative
+https://www.codewars.com/kata/55f73f66d160f1f1db000059 - Grasshopper - Combine strings
 https://www.codewars.com/kata/5715eaedb436cf5606000381 - Sum of positive
 https://www.codewars.com/kata/57a2013acf1fa5bfc4000921 - Calculate average
 
@@ -19,7 +20,6 @@ https://www.codewars.com/kata/57a2013acf1fa5bfc4000921 - Calculate average
 4. https://www.codewars.com/kata/55ca77fa094a2af31f00002a
 6. https://www.codewars.com/kata/57e3f79c9cb119374600046b
 1. https://www.codewars.com/kata/57ab3c09bb994429df000a4a
-2. https://www.codewars.com/kata/55f73f66d160f1f1db000059
 3. https://www.codewars.com/kata/55eca815d0d20962e1000106
 4. https://www.codewars.com/kata/55a5befdf16499bffb00007b
 5. https://www.codewars.com/kata/55a5bfaa756cfede78000026
