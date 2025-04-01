@@ -10,10 +10,12 @@ https://www.codewars.com/kata/53ee5429ba190077850011d4 - You Can't Code Under Pr
 https://www.codewars.com/kata/53369039d7ab3ac506000467 - Convert boolean values to strings 'Yes' or 'No'.
 https://www.codewars.com/kata/57089707fe2d01529f00024a - Grasshopper - If/else syntax debug
 https://www.codewars.com/kata/55685cd7ad70877c23000102 - Return Negative
+https://www.codewars.com/kata/5a2be17aee1aaefe2a000151 - Array plus array
 https://www.codewars.com/kata/55f73f66d160f1f1db000059 - Grasshopper - Combine strings
 https://www.codewars.com/kata/524f5125ad9c12894e00003f - Find the Remainder
 https://www.codewars.com/kata/5715eaedb436cf5606000381 - Sum of positive
 https://www.codewars.com/kata/57a2013acf1fa5bfc4000921 - Calculate average
+https://www.codewars.com/kata/565f5825379664a26b00007c - Surface Area and Volume of a Box
 https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7 - Filter out the geese
 https://www.codewars.com/kata/55eca815d0d20962e1000106 - Generate range of integers
 
@@ -40,7 +42,6 @@ https://www.codewars.com/kata/55eca815d0d20962e1000106 - Generate range of integ
 5. https://www.codewars.com/kata/59342039eb450e39970000a6
 1. https://www.codewars.com/kata/55a2d7ebe362935a210000b2
 2. https://www.codewars.com/kata/55d24f55d7dd296eb9000030
-3. https://www.codewars.com/kata/5a2be17aee1aaefe2a000151
 1. https://www.codewars.com/kata/523b623152af8a30c6000027
 2. https://www.codewars.com/kata/57a0885cbb9944e24c00008e
 4. https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118
@@ -50,7 +51,6 @@ https://www.codewars.com/kata/55eca815d0d20962e1000106 - Generate range of integ
 8. https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b
 9. https://www.codewars.com/kata/5966e33c4e686b508700002d
 1. https://www.codewars.com/kata/5761a717780f8950ce001473
-2. https://www.codewars.com/kata/565f5825379664a26b00007c
 1. https://www.codewars.com/kata/57e1e61ba396b3727c000251
 2. https://www.codewars.com/kata/55f1b763dd670651620000ce
 3. https://www.codewars.com/kata/570a6a46455d08ff8d001002

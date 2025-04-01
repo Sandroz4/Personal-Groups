@@ -1,0 +1,94 @@
+#cube{
+    width: 200px;
+    height: 200px;
+    background: blueviolet;
+    border-radius: 10px;
+
+    animation-name: animation;
+    animation-duration: 5s;
+
+    position: relative;
+
+}
+
+
+@keyframes animation{
+    from { 
+        background: red;
+        margin-top: 0px;
+    }
+
+    to {
+        background: green;
+        margin-top: 200px;
+        margin-left: 100px;
+        border-radius: 100%;
+        transform: scale(0.5);
+        width: 700px;
+    }
+}
+
+
+
+#circle{
+    width: 200px;
+    height: 200px;
+    background: white;
+    border: 20px solid greenyellow;
+    border-right: 20px solid transparent;
+    border-radius: 100%;
+
+    animation-name: rotate;
+    animation-duration: 2s;
+    animation-delay: 5s;
+    
+    animation-iteration-count: infinite;
+
+}
+
+@keyframes rotate{
+    0% {
+        transform: rotate(10deg);
+    }
+
+    50% {
+        transform: rotate(90deg);
+    }
+
+    100%{
+        transform: rotate(360deg);
+    }
+}
+
+
+
+
+/* #cube:hover{
+    transform: scale(1.2);
+    transform: translate(50px);
+} */
+
+
+
+/* @keyframes test{
+    0%{
+        background: yellow;
+        margin-top: 100px;
+    }
+
+    50% {
+        background: green;
+        margin-left: 100px;
+    }
+
+    70% {
+        background: purple;
+        width: 300px;
+    }
+
+    100% {
+        background: black;
+        height: 400px;
+    }
+}
+ */
