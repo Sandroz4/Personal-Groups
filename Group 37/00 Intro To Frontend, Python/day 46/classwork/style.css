@@ -1,0 +1,167 @@
+/* #cube1{
+    background: rebeccapurple;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+
+    animation-name: bounce2;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+
+    animation-timing-function: ease;
+}
+
+#cube2{
+    background: rebeccapurple;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-left: 300px;
+    margin-top: -200px;
+
+    animation-name: bounce2;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+
+    animation-timing-function: linear;
+}
+
+#cube3{
+    background: rebeccapurple;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-left: 600px;
+    margin-top: -200px;
+
+    animation-name: bounce2;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+
+    animation-timing-function: ease-in;
+}
+
+#cube4{
+    background: rebeccapurple;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-left: 900px;
+    margin-top: -200px;
+
+    animation-name: bounce2;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+
+    animation-timing-function: ease-out;
+}
+
+
+
+@keyframes bounce2{
+    0% {
+        transform: translate(0px, 0px);
+    }
+
+    100% {
+        transform: translate(0px, 500px);
+    }
+} 
+
+
+#finish {
+    margin-top: 500px;
+    width: 1100px;
+    height: 250px;
+}
+
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @keyframes bounce{
+    0% {
+        transform: translate(0px, 0px);
+    }
+
+    20% {
+        transform: translate(50px, 350px);
+    }
+
+    40% {
+        transform: translate(150px, 200px);
+    }
+
+    60% {
+        transform: translate(200px, 350px);
+    }
+
+    70% {
+        transform: translate(250px, 280px);
+    }
+
+    100% {
+        transform: translate(300px, 350px);
+    }
+} */
+
+
+
+
+
+
+
+
+
+#circle{
+    width: 200px;
+    height: 200px;
+    background: blue;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius: 50%;
+    
+    animation: pulse 5s ease 2s infinite;
+
+    /* animation-name: pulse;
+    animation-duration: 5s;
+    animation-timing-function: ease;
+    animation-delay: 2s;
+    animation-iteration-count: infinite; */
+
+}
+
+
+
+@keyframes pulse{
+    0%{
+        transform: scale(1);
+    }
+    50%{
+        transform: scale(1.25);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
