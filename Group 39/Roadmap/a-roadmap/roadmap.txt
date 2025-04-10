@@ -3,14 +3,16 @@
 
 - Level 84: 6 April | Codewars 🟥
 
-- Level 85: 10 April | Advanced Conditions, More on Conditional Statements
-- Level 86: 13 April | While Loops
-- Level 87: 17 April | For Loops, Module Quiz
+- Level 85: 10 April | Advanced Conditions
+- Level 86: 13 April | More on Conditional Statements
+- Level 87: 17 April | Conditional Statements Practice, While Loops
 
 - Level 88: 20 April | Codewars 🟥
 
-- Level 89: 24 April | Building HTML/CSS/JS Site P1
-- Level 90: 27 April | Building HTML/CSS/JS Site P2
-- Level 91: 1 May | Building HTML/CSS/JS Site P3 (GroupWork)
+- Level 89: 24 April | For Loops, Module Quiz
 
-- Level 92: 4 May | Codewars 🟥
+- Level 89: 27 April | Building HTML/CSS/JS Site P1
+- Level 90: 1 May | Building HTML/CSS/JS Site P2
+- Level 91: 4 May | Building HTML/CSS/JS Site P3 (+ GroupWork)
+
+- Level 92: 8 May | Codewars 🟥
