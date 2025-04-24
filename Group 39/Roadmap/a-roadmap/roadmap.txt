@@ -1,14 +1,3 @@
-- Level 82: 30 March | Data Types, Module Quiz, Control Flow, 
-- Level 83: 3 April | Conditional Statements
-
-- Level 84: 6 April | Codewars 🟥
-
-- Level 85: 10 April | Advanced Conditions
-- Level 86: 13 April | More on Conditional Statements
-- Level 87: 17 April | Conditional Statements Practice, While Loops
-
-- Level 88: 20 April | Codewars 🟥
-
 - Level 89: 24 April | For Loops, Module Quiz
 
 - Level 89: 27 April | Building HTML/CSS/JS Site P1
