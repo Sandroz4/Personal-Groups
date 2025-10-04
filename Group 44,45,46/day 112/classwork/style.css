@@ -1,0 +1,38 @@
+/* #tbl {
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+#tbl th,
+#tbl td {
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+tr:nth-child(even) {
+    color: white;
+    background: green;
+} */
+
+/* odd, even */
+
+/* 
+ul {
+    list-style-type: square;
+} */
+
+img {
+    transition: 2s ease;
+}
+
+img:hover {
+    transform: scale(1.05);
+    transform: translateX(-10px);
+    transform: rotate(20deg);
+    transform: ;
+}
