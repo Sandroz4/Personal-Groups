@@ -1,0 +1,96 @@
+#container {
+    display: grid;
+    grid-template-rows: 50px 50px 50px 50px;
+    grid-template-columns: 50px 50px 50px 50px;
+}
+
+
+#item4 {
+    /* grid-row-start: 2;
+    grid-row-end: 4;
+    grid-column-start: 1;
+    grid-column-end: 3; */
+
+    /* grid-row: 2 / 4;
+    grid-column: 1 / 3; */
+
+    /* grid-row: 3 / 4;
+    grid-column: -3 / -1; */
+/* 
+    grid-row: span 3;
+    grid-column: span 3; */
+
+    
+    /* grid-row: 2 / 5;
+    grid-column: 1 / 4; */
+
+             /* რიგის დასაწყ   სვეტის დასაწყ        რიგის დასასრ       სვეტის დასასრულ                 */
+    /* grid-area: 2        /       2              /      4 /            4; */
+
+
+    grid-area: 2 / 2 / 3 / 3;
+    z-index: 2;
+}
+
+#item2 {
+    grid-area: 1 / 2 / 4 / 3;
+    z-index: 3;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#item1 {
+    background: red;
+}
+
+#item2 {
+    background: limegreen;
+}
+
+
+#item3 {
+    background: blueviolet;
+}
+
+
+#item4 {
+    background: yellow;
+}
+
+
+
+
+
+
+
+
+
+
