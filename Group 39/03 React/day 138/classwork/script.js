@@ -1,19 +1,50 @@
-// fetch('https://fakestoreapi.com/products/3')
+
+
+
+
+// let inp = document.getElementById('inp').value;
+// const apiKey = "38c8a267e25940bf35aa75921cdd6af2";
+// const query = inp;
+
+// fetch(`https://api.themoviedb.org/3/search/movie?api_key=
+// ${apiKey}&query=${encodeURIComponent(query)}`)
+//     .then(res => console.log(res))
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// fetch('https://fakest/products/3')
 //     .then(response => response.json())
-//     .then(function(product) {
-//         const img = document.getElementById('img')
-//         const h1 = document.getElementById('heading')
-//         const p = document.getElementById('p')
-
-
-//         h1.textContent = product.title
-//         img.src = product.image
-//         p.textContent = `${product.price}$`
-
+//     .catch(function(error) {
+//         console.log('could not proceed')
 //     })
 
 
 
+        // const img = document.getElementById('img')
+        // const h1 = document.getElementById('heading')
+        // const p = document.getElementById('p')
+
+
+        // h1.textContent = product.title
+        // img.src = product.image
+        // p.textContent = `${product.price}$`
 
 
 
