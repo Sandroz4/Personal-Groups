@@ -8,7 +8,7 @@
 
 //         h1.textContent = product.title
 //         img.src = product.image
-//         p.textContent = product.price
+//         p.textContent = `${product.price}$`
 
 //     })
 
@@ -17,18 +17,51 @@
 
 
 
+// let name = 'sandro'
+// // let greeting = 'hello ' + name
+
+// let greeting = `hello ${name}`
+// console.log(greeting)
+
+
+// const productBox = document.getElementById('productBox')
+
+// fetch('https://fakestoreapi.com/products/3')
+//     .then(response => response.json())
+//     .then(product => {
+//         productBox.innerHTML = `
+//             <div>
+//                 <h1>${product.title}</h1>
+//                 <img src="${product.image}"> 
+//                 <p>${product.price}$</p>
+                
+//             </div>
+//         `
+//     })
+
+
+// fetch('https://fakestoreapi.com/products')
+//     .then(response => response.json())
+//     .then(products => {
+//         const container = document.getElementById('container')
+
+//         const picture = products.map(product => {
+//             return `
+//             <div>
+//             <img src="${product.image}">
+//             <p>${product.title}</p>
+//             </div>`
+//         })
+
+//         container.innerHTML = picture
+//     })
 
 
 
 
+// const numbers = [1, 2, 4]
 
-
-
-
-
-
-
-
+// numbers.map(item => console.log(item))
 
 
 
