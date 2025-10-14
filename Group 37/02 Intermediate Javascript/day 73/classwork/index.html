@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- <button id="btn">click</button> -->
+     <div style="width: 50px; height: 50px; text-align: center;" 
+     id="cube">cube</div>
+
+    <script>
+        let cube = document.getElementById('cube')
+
+        
+        function turnRed(event) {
+            event.target.style.background = 'red'
+        }
+
+
+        cube.addEventListener('click', turnRed)
+
+
+
+
+
+
+
+
+        // let btn = document.getElementById('btn')
+        // btn.style.color = 'red'
+
+
+        // btn.addEventListener('click', function(event) {
+        //     console.log(event.target)
+        // })
+
+
+    </script>
+</body>
+</html>
