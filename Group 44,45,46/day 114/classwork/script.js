@@ -48,7 +48,7 @@
 // })
 
 
-fetch('https://fakestoreapi.com/products')
+// fetch('https://fakestoreapi.com/products')
     .then(res => res.json())
     .then(function(products) {
         const container = document.getElementById('productContainer')
