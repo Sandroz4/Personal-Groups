@@ -7,7 +7,7 @@
 
 // const query = 'Titanic'
 
-const movieDiv = document.getElementById("container");
+// const movieDiv = document.getElementById("container");
 
 fetch(`https://api.themoviedb.org/3/search/movie?api_key=
 38c8a267e25940bf35aa75921cdd6af2&query=${encodeURIComponent("shrek 2")}`)
@@ -30,3 +30,9 @@ fetch(`https://api.themoviedb.org/3/search/movie?api_key=
             <p>${movie.overview}</p>
         `;
   });
+
+
+
+// const numbers = [1, 5, 2, 4]
+
+// numbers.map((num, index) => console.log(num, index))
