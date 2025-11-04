@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- <h1>hello world</h1> -->
+    <!-- <p>hello</p> -->
+    <!-- <div style="height: 50px; width: 50px; background-color: crimson; border-radius: 50%; position: relative;"></div> -->
+
+    <!-- <button onclick="logFive(event)">Click</button>
+     -->
+
+    <button class="btn">Click 1</button>
+    <button class="btn">Click 2</button>
+    <button class="btn">Click 3</button>
+    <button class="btn">Click 4</button>
+
+
+
+
+    <script>
+    let btns = document.getElementsByClassName('btn')
+
+    function btnLog() {
+        console.log('You clicked a button!')
+    }
+    
+
+    for (let i = 0; i < btns.length; i++) {
+        btns[i].addEventListener('click', btnLog)
+    }
+
+
+
+
+    // let numbers = [1,2,3,4]
+    // console.log(numbers[3])
+
+
+
+
+
+
+        // function logFive(event) {
+        //     console.log(event.target)
+        // }
+
+
+        // let ball = document.querySelector('div')
+        // let position = 0
+
+
+        // function moveBall() {
+        //     position += 20
+        //     ball.style.left = position + 'px'
+        // }
+
+        // setInterval(moveBall, 1000)
+
+        // if (o > 1 || o < 0) { 
+        //     oSpeed = oSpeed * -1; 
+        // }
+
+
+                // function move () {
+            
+        // }
+
+
+
+
+
+
+
+
+
+
+        // let heading = document.querySelector('h1')
+        // heading.style.color = 'green'
+        // heading.style.textAlign = 'center'
+
+
+        // let paragraph = document.querySelector('p')
+
+       
+
+        // function logFiveSite() {
+        //     paragraph.textContent += paragraph.textContent
+        // }
+
+        // let int = setInterval(logFiveSite, 1000)
+        // clearInterval(int)
+
+        // paragraph.textContent = ''
+
+
+        // setInterval(function () {
+        //     console.log(5)
+        // }, 1000)
+
+        // function logFive() {
+        //     console.log(5)
+        // }
+
+        // let int = setInterval(logFive, 1000)
+        // clearInterval(int)
+        
+    </script>
+</body>
+</html>
