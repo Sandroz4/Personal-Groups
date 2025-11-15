@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List</title>
+
+    <style>
+        ul {
+            margin-top: 20px;
+            padding: 0;
+            list-style: none;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        li {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            padding: 7px 12px;
+            color: white;
+            background: cadetblue;
+            border-radius: 5px;
+            font-size: 18px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .delete-btn {
+            border: none;
+            border-radius: 50%;
+            width: 26px;
+            height: 26px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>To-Do List</h1>
+
+    <input id="taskinput" type="text" placeholder="Enter a task">
+    <button id="addBtn">Add</button>
+
+    <ul id="taskList"></ul>
+
+    <script>
+        const addBtn = document.getElementById('addBtn')
+        const input = document.getElementById('taskinput')
+        const list = document.getElementById('taskList')
+
+        addBtn.addEventListener('click', function () {
+            const text = input.value.trim()
+            if (!text) return
+
+            const li = document.createElement('li')
+            li.textContent = text
+
+            const btn = document.createElement('button')
+            btn.textContent = 'X'
+            btn.className = 'delete-btn'
+
+            btn.addEventListener('click', () => {
+                list.removeChild(li)
+            })
+
+            li.appendChild(btn)
+            list.appendChild(li)
+
+            input.value = ""
+        })
+    </script>
+</body>
+</html>
+
+
+

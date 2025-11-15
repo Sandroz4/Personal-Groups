@@ -1,0 +1,21 @@
+ul {
+    margin-top: 20px;
+    padding: 0px;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100px;
+}
+
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:  7px;
+    color: white;
+    margin-right: 5px;
+    background: cadetblue;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+ 
