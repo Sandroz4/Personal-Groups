@@ -13,15 +13,15 @@
 //             const movieData = results[0];
 
 
-//             movieDiv.innerHTML = `
-//                 <h2 id='heading_2'>${movieData.orignal_title} (${movieData.release_date})</h2>
+            movieDiv.innerHTML = `
+                <h2 id='heading_2'>${movieData.orignal_title} (${movieData.release_date})</h2>
                 
-//                 <img id='img1' src="https://image.tmdb.org/t/p/w1280/${movieData.backdrop_path}" alt="">
-//                 <img src="https://image.tmdb.org/t/p/w400/${movieData.poster_path}" alt="">
-//                 <button>${movieData.popularity}</button>
-//                 <p>${movieData.overview}</p>
-//             `;
-//         });
+                <img id='img1' src="https://image.tmdb.org/t/p/w1280/${movieData.backdrop_path}" alt="">
+                <img src="https://image.tmdb.org/t/p/w400/${movieData.poster_path}" alt="">
+                <button>${movieData.popularity}</button>
+                <p>${movieData.overview}</p>
+            `;
+        });
 // }
 
 
