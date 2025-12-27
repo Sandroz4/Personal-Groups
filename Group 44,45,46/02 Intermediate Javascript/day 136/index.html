@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul>
+
+    </ul>
+
+    <input type="text" placeholder="Add item">
+
+    <button>Add Item</button>
+    
+
+    <script>
+        let ul = document.querySelector('ul')
+        let inp = document.querySelector('input')
+        let btn = document.querySelector('button')
+        let items = ['bread', 'milk',' cola', 'snikers']
+
+        function rendList() {
+            items.map(item => {
+            let li = document.createElement('li')
+            let text = document.createTextNode(item)
+            li.appendChild(text)
+            ul.appendChild(li)
+
+            li.addEventListener('click', () => {
+                li.style.textDecorationLine = 'line-through';
+            })
+        }) 
+        }
+        rendList() 
+
+
+        btn.addEventListener('click', () => {
+            items.push(inp.value)
+            ul.innerHTML = ''
+            rendList() 
+        })
+        
+        
+
+
+
+    </script>
+</body>
+</html>
