@@ -1,0 +1,19 @@
+.div1{
+    display: flex;
+    background-color: blueviolet;
+    height: 250px;
+    width: 250px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 10%;
+}
+#btn1{
+    background: rgb(63, 9, 114);
+    color:white;
+    display: flex;
+    width: 50px;
+    height: 30px;
+    justify-content: center;
+    border-radius: 10px;
+}
