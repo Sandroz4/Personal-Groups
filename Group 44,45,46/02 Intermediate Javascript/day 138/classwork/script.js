@@ -10,5 +10,5 @@ btn1.addEventListener('click',(e)=>{
     textadd.style.height = '250px'
     textadd.style.width = '250px'
     
-
+    
 })
