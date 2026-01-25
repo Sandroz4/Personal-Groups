@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 100vh;
+  justify-content: center;
+  background-color: pink;
+
+}
+img{
+    width: 250px;
+    height: 200px;
+    background-color: white;
+    border-radius: 15px;
+
+}
+h1{
+    position: absolute;
+}
+#btn1{
+    margin-right: 700px;
+}
+#btn2{
+    margin-right:230px;
+}
+#btn3{
+    margin-left: 250px;
+}
+#btn4{
+    margin-left:700px ;
+}
